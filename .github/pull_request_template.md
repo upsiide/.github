@@ -16,11 +16,11 @@ List any breaking changes here and tag the relevant engineer.
 
 ### Release Checklist ###
 
-[] Tested in Pre-Production Environment
-[] Security and Functional QA Passed 
-[] Double-Checked Target Branch
-[] Added/Updated Swagger Documentation
-[] Checked modified queries for performance at scale
+- [ ] Tested in Pre-Production Environment
+- [ ] Security and Functional QA Passed 
+- [ ] Double-Checked Target Branch
+- [ ] Added/Updated Swagger Documentation
+- [ ] Checked modified queries for performance at scale
 
 ### Notes ###
 
