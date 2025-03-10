@@ -20,6 +20,7 @@ List any breaking changes here and tag the relevant engineer.
 - [ ] Security and Functional QA Passed 
 - [ ] Double-Checked Target Branch
 - [ ] Checked modified queries for performance at scale
+- [ ] E2E Automation Tests Ran
 
 ### Notes ###
 
