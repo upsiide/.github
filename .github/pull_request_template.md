@@ -16,16 +16,10 @@ List any breaking changes here and tag the relevant engineer.
 
 ### Release Checklist ###
 
-- [ ] Tested in Pre-Production Environment
 - [ ] Security and Functional QA Passed 
 - [ ] Double-Checked Target Branch
-- [ ] Checked modified queries for performance at scale
 - [ ] E2E Automation Tests Ran
 
 ### Notes ###
 
 Any notes to reviewers go here.
-
-### Leadership Only ###
-
-- [ ] Leadership approval for production
