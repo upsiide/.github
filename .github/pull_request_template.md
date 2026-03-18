@@ -14,12 +14,6 @@ Links to any open tickets.
 
 List any breaking changes here and tag the relevant engineer.
 
-### Release Checklist ###
-
-- [ ] Security and Functional QA Passed 
-- [ ] Double-Checked Target Branch
-- [ ] E2E Automation Tests Ran
-
 ### Notes ###
 
 Any notes to reviewers go here.
